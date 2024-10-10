@@ -41,4 +41,11 @@ public class TestCasesFrom_01_10
 	{
 		System.out.println("TestCase4");
 	}
+
+	@Test
+	public void m7() 
+
+	{
+		System.out.println("TestCase4");
+	}
 }
