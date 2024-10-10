@@ -27,9 +27,17 @@ public class TestCasesFrom_01_10
 	{
 		System.out.println("TestCase4");
 	}
+
 	
 	@Test
 	public void m5() 
+	{
+		System.out.println("TestCase4");
+	}
+
+	@Test
+	public void m6() 
+
 	{
 		System.out.println("TestCase4");
 	}
